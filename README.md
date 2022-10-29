@@ -455,6 +455,7 @@ using `fetch()`. This request should include:
 - A body with the name and email passed in as arguments to `submitData`. These
   should be assigned to `name` and `email` keys within an object. This object
   should then be stringified.
+  
 
 ### Test 2 - Handle the Response
 
